@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\anand\Desktop\WeatherAppSearch\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\anand\Desktop\WeatherAppSearch\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_ca05e8e6588b2b7feee9a20a29c056c0d53873b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\anand\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\anand\Desktop\WeatherAppSearch\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_cacffec50f6c5186948e6cd0fe482691e1033a97.jar" />
+    </item>
+    <item
+        jar="C:\Users\anand\Desktop\WeatherAppSearch\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\anand\Desktop\WeatherAppSearch\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_aad5fd356ee81450ec0607703f983cb70d1e2bfd.jar" />
+    </item>
+    <item
+        jar="C:\Users\anand\Desktop\WeatherAppSearch\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\anand\Desktop\WeatherAppSearch\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_faa8ec94edc25cdca1d292721b9da6dd86dec397.jar" />
+    </item>
+    <item
+        jar="C:\Users\anand\Desktop\WeatherAppSearch\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\anand\Desktop\WeatherAppSearch\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_770bbf514a8010b1665506ca939679fdca72deed.jar" />
+    </item>
+    <item
+        jar="C:\Users\anand\Desktop\WeatherAppSearch\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\anand\Desktop\WeatherAppSearch\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_da92d8f3e17617ff8dda609167dc344a22034343.jar" />
+    </item>
+
+</items>
