@@ -1,0 +1,30 @@
+graph {
+    fill-color: white;
+}
+node {
+    stroke-mode: plain;
+    stroke-color: black;
+	size: 10px, 10px;
+	shape:circle;
+	fill-color:white;
+	text-size:14;
+	padding:3px;
+	text-alignment:under;
+}
+
+edge {
+    text-alignment:along;
+	size:2px;
+	text-size:14;
+	text-style:bold;
+	text-color:red;
+}
+
+edge#failed {
+    fill-color: red;
+}
+
+node:clicked {
+    fill-color: blue;
+}
+
