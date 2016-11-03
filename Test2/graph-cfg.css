@@ -1,0 +1,36 @@
+node { 
+    text-mode: normal; 
+    size: 20px, 20px;
+    text-alignment: under;
+    stroke-mode: plain;
+}
+node.wan { 
+	fill-color: #9e9ac8; 
+	stroke-color: #6a51a3;
+}
+node.gw { 
+	fill-color: #fd8d3c; 
+	stroke-color: #d94701;
+}
+node.t { 
+	fill-color: #74c476; 
+	stroke-color: #238b45;
+}
+node.ap { 
+	fill-color: #6baed6; 
+	stroke-color: #2171b5;
+}
+
+edge { 
+	text-mode: normal; 
+	stroke-mode: none;
+}
+edge.link_gw { 
+	fill-color: #d94701;
+}
+edge.link_t { 
+	fill-color: #238b45;
+}
+edge.link_ap { 
+	fill-color: #2171b5;
+}
