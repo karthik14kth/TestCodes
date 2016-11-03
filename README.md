@@ -1,2 +1,2 @@
 # TestCodes
-This is my code for whether app for test assignment.
+This is my repository for commiting my codes.
