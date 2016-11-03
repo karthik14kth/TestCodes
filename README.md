@@ -1,2 +1,2 @@
 # TestCodes
-This is my code for whether app for test assignment.
+Please do not look at this branch as I like to commit crappy codes here.
